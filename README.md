@@ -9,9 +9,9 @@
 <div style="display: inline_block"><br>
 
 <div align="center">
-    <img height="220em" src="https://github-readme-stats.vercel.app/api?username=targax&show_icons=true&t&theme=dark"/>
-    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=targax&langs_count=4)](https://github.com/anuraghazra/github-readme-statsCompact&theme=dark"/>
-</div> 
+  <a href="http://www.github.com/targax"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=targax&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true"/></a>
+  <a href="http://www.github.com/targax"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=targax&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+</div>
 
 ## 
  
