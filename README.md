@@ -8,10 +8,10 @@
 
 <div style="display: inline_block"><br>
 
-<div> 
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=targax&show_icons=true&theme=dark"/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=targax&theme=dark&layout=compact">
-</div>
+<div align="center">
+    <img height="220em" src="https://github-readme-stats.vercel.app/api?username=targax&show_icons=true&t&theme=dark"/>
+    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=targax&langs_count=4)](https://github.com/anuraghazra/github-readme-statsCompact&theme=dark"/>
+</div> 
 
 ## 
  
